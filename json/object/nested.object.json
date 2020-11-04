@@ -1,0 +1,9 @@
+{
+  "foo": 42,
+  "nested": {
+    "bar": {
+      "baz": "s",
+      "q": false
+    }
+  }
+}

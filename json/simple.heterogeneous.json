@@ -1,4 +1,7 @@
 [ { "foo": 42 }
 , { "foo": "hello" }
 , { "foo": true }
+, { "foo": 21 }
+, { "foo": "world" }
+, { "foo": false }
 ]

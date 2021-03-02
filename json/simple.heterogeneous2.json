@@ -1,0 +1,7 @@
+[ { "a": 1, "foo": 42 }
+, { "a": 2, "foo": "hello" }
+, { "a": 3, "foo": true }
+, { "a": 4, "foo": 21 }
+, { "a": 5, "foo": "world" }
+, { "a": 6, "foo": false }
+]
